@@ -93,6 +93,10 @@ pip install -r requirements.txt
 ```bash
 python main.py 'Text' /path/to/image.jpg
 ```
+## Example
+![image](https://github.com/user-attachments/assets/4818b648-e337-460f-8f2c-3c6423a632c0)
+
+
 
 
 
